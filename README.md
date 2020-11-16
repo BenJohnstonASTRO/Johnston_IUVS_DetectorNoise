@@ -1,8 +1,7 @@
 This work continues previous work done by David Gomez and Majd Mayyasi. Goal: characterize the particle sensitivity of the MAVEN IUVS instrument throughout the mission, 
 identify (using IUVS data) orbits with single-particle or particle-barrage interactions with the IUVS detector, and correlate these detections with known SEP/ICME events.
 
-"__----------------------------------------- Mission Long Analysis -----------------------------------------"
-
+----------------------------------------- Mission Long Analysis -----------------------------------------
 main function file: "FULLMISSION_Bens_Functions_ALLDark"
 
 python notebooks: all "FULLMISSION_fuvdark_{}" (mission long dark frame analysis for all observing modes), and "ShapesOfFiles" (tells' the shape of every .fits file 
@@ -20,31 +19,28 @@ for all observing modes)
   observing mode. The images are all plotted using the same colormap.  The 6-sigma outliers foor each image are calculated using the mode and standard deviation of the 
   Data Number histogram, and the outlier plot is shown in the notebooks.
   
- - Due to GitHub size contraints, the output from each cell has been cleared.  Please contact me for a detailed "walkthrough" of the function files and python notebooks.
+ - Due to GitHub size contraints, the output from each cell has been cleared.  
+ - Please contact me for a detailed "walkthrough" of the function files and python notebooks, as I will be able to give a better verbal presentation of these files.
 
 
-__----------------------------------------- December 2014 SEP Event Analysis -----------------------------------------
-
+----------------------------------------- December 2014 SEP Event Analysis -----------------------------------------
 main function file: "BensFunctions, BensFunction_allLight"
 
 python notebooks: all "25dec2014_fuvdark_{}" (dark frame analysis), "25dec2014_fuv" (for light frame analysis), and "{}_ShapesOfFiles" 
 
 
-__----------------------------------------- July 2017 SEP Event Analysis -----------------------------------------
-
+----------------------------------------- July 2017 SEP Event Analysis -----------------------------------------
 main function file: "BensFunctions, BensFunction_allLight"
 
 python notebooks: all "23july2017_fuvdark_{}" (dark frame analysis), "23july2017_fuv" (for light frame analysis), and "{}_ShapesOfFiles" 
 
 
-__----------------------------------------- September 2017 SEP Event Analysis -----------------------------------------
-
+----------------------------------------- September 2017 SEP Event Analysis -----------------------------------------
 main function file: "BensFunctions, BensFunction_allLight"
 
 python notebooks: all "13sept2017_fuvdark_{}" (dark frame analysis), "13sept2017_fuv" (for light frame analysis), and "{}_ShapesOfFiles" 
 
 
-__------------------------------------------------------------------------------------------------------------------------------------
-
+------------------------------------------------------------------------------------------------------------------------------------
 Notebooks showing localized impact analysis not uploaded, and there are many more notebooks for each SEP event for the remaining observing modes.  Contact me with any issues, 
 questions, or requests for more notebooks at bejo8013@colorado.edu
