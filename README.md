@@ -1,7 +1,8 @@
 This work continues previous work done by David Gomez and Majd Mayyasi. Goal: characterize the particle sensitivity of the MAVEN IUVS instrument throughout the mission, 
 identify (using IUVS data) orbits with single-particle or particle-barrage interactions with the IUVS detector, and correlate these detections with known SEP/ICME events.
 
------------------------------------------ Mission Long Analysis -----------------------------------------
+----------------------------------------- Mission Long Analysis ----------------------------------------- 
+
 main function file: "FULLMISSION_Bens_Functions_allDark"
 
 python notebooks: all "FULLMISSION_fuvdark_{}" (mission long dark frame analysis for all observing modes), and "ShapesOfFiles" (tells' the shape of every .fits file 
@@ -24,23 +25,27 @@ for all observing modes)
 
 
 ----------------------------------------- December 2014 SEP Event Analysis -----------------------------------------
+
 main function file: "BensFunctions, BensFunction_allLight"
 
 python notebooks: all "25dec2014_fuvdark_{}" (dark frame analysis), "25dec2014_fuv" (for light frame analysis), and "{}_ShapesOfFiles" 
 
 
 ----------------------------------------- July 2017 SEP Event Analysis -----------------------------------------
+
 main function file: "BensFunctions, BensFunction_allLight"
 
 python notebooks: all "23july2017_fuvdark_{}" (dark frame analysis), "23july2017_fuv" (for light frame analysis), and "{}_ShapesOfFiles" 
 
 
 ----------------------------------------- September 2017 SEP Event Analysis -----------------------------------------
+
 main function file: "BensFunctions, BensFunction_allLight"
 
 python notebooks: all "13sept2017_fuvdark_{}" (dark frame analysis), "13sept2017_fuv" (for light frame analysis), and "{}_ShapesOfFiles" 
 
 
 ------------------------------------------------------------------------------------------------------------------------------------
+
 Notebooks showing localized impact analysis not uploaded, and there are many more notebooks for each SEP event for the remaining observing modes.  Contact me with any issues, 
 questions, or requests for more notebooks at Ben.Johnston@lasp.colorado.edu
