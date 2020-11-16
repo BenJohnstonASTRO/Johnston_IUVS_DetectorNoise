@@ -43,4 +43,4 @@ python notebooks: all "13sept2017_fuvdark_{}" (dark frame analysis), "13sept2017
 
 ------------------------------------------------------------------------------------------------------------------------------------
 Notebooks showing localized impact analysis not uploaded, and there are many more notebooks for each SEP event for the remaining observing modes.  Contact me with any issues, 
-questions, or requests for more notebooks at bejo8013@colorado.edu
+questions, or requests for more notebooks at Ben.Johnston@lasp.colorado.edu
