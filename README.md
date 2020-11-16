@@ -24,11 +24,13 @@ for all observing modes)
  - Please contact me for a detailed "walkthrough" of the function files and python notebooks, as I will be able to give a better verbal presentation of these files.
 
 
+
 ----------------------------------------- December 2014 SEP Event Analysis -----------------------------------------
 
 main function file: "BensFunctions, BensFunction_allLight"
 
 python notebooks: all "25dec2014_fuvdark_{}" (dark frame analysis), "25dec2014_fuv" (for light frame analysis), and "{}_ShapesOfFiles" 
+
 
 
 ----------------------------------------- July 2017 SEP Event Analysis -----------------------------------------
@@ -38,11 +40,13 @@ main function file: "BensFunctions, BensFunction_allLight"
 python notebooks: all "23july2017_fuvdark_{}" (dark frame analysis), "23july2017_fuv" (for light frame analysis), and "{}_ShapesOfFiles" 
 
 
+
 ----------------------------------------- September 2017 SEP Event Analysis -----------------------------------------
 
 main function file: "BensFunctions, BensFunction_allLight"
 
 python notebooks: all "13sept2017_fuvdark_{}" (dark frame analysis), "13sept2017_fuv" (for light frame analysis), and "{}_ShapesOfFiles" 
+
 
 
 ------------------------------------------------------------------------------------------------------------------------------------
