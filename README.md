@@ -1,7 +1,7 @@
 This work continues previous work done by David Gomez and Majd Mayyasi. Goal: characterize the particle sensitivity of the MAVEN IUVS instrument throughout the mission, 
 identify (using IUVS data) orbits with single-particle or particle-barrage interactions with the IUVS detector, and correlate these detections with known SEP/ICME events.
 
-__----------------------------------------- Mission Long Analysis -----------------------------------------
+"__----------------------------------------- Mission Long Analysis -----------------------------------------"
 
 main function file: "FULLMISSION_Bens_Functions_ALLDark"
 
